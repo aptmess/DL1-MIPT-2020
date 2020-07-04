@@ -1,4 +1,3 @@
-# DL1-MIPT-2020
-MIPT DL1
+# Stepic Courses
 
-MY
+This repository contains own soultions for several stepik cources
